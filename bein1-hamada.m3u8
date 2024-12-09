@@ -1,9 +1,11 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://spidertv.info:80/live/momhwsd33/ww784756/128005.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://spidertv.info:80/live/momhwsd33/ww784756/131727.m3u8
+http://spidertv.info:80/live/momhwsd33/ww784756/129288.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://spidertv.info:80/live/momhwsd33/ww784756/131718.m3u8
+http://spidertv.info:80/live/momhwsd33/ww784756/127921.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://spidertv.info:80/live/momhwsd33/ww784756/131708.m3u8
+http://spidertv.info:80/live/momhwsd33/ww784756/127996.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-http://spidertv.info:80/live/momhwsd33/ww784756/131697.m3u8
+http://spidertv.info:80/live/momhwsd33/ww784756/131658.m3u8
