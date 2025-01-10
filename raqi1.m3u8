@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+https://alraqi-tv.com/live/beIN/bn_cdn_4k1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://alraqi-tv.com/live/beIN/bn_cdn_fhd1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://alraqi-tv.com/live/beIN/bn_cdn_hd1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://alraqi-tv.com/live/beIN/bn_cdn_sd1.m3u8
