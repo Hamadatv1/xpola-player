@@ -1,9 +1,9 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://125x.org:8080/bn14k/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://max84.a8slate.com:2052/live/20244/677fe8d920cc4/554433.m3u8
+http://125x.org:8080/bn1hevc/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://max84.a8slate.com:2052/live/20244/677fe8d920cc4/554401.m3u8
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://max84.a8slate.com:2052/live/20244/677fe8d920cc4/554417.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-http://max.a8slate.com:2052/live/20244/677fe8d920cc4/555856.m3u8
+http://cdnvine.com:8080/bn1sd/tracks-v1a1/mono.m3u8
